@@ -6,3 +6,8 @@ LL(1) Parser to validate subset of Java language and builds a parse tree represe
 
 ![image](https://github.com/WilliamSottoriva/Java-Syntax-Parser/assets/60838237/cd59a986-03f8-4c93-b9b9-8ff95339c07c)
 
+Reserved words/symbols:
+
+![image](https://github.com/WilliamSottoriva/Java-Syntax-Parser/assets/60838237/67e6aebf-1aff-4489-a8d5-e1ab8a71e5ac)
+
+
